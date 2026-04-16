@@ -12,11 +12,17 @@ The repository contains **30 unique scripts** organized into **6 progressive lev
 
 Our workflow mimics a professional engineering environment, with tasks distributed across the team to ensure both specialized focus and collective success.
 Member,Title,Responsibility,Domain
+
 Chrys,Lead Developer,Grand Challenges,Levels 5 & 6 (Complex Logic & Systems)
+
 Grace,Function Architect,Modularity,Level 5 (Functions & Return Values)
+
 Sampson,Automation Lead,Repetition,Level 4 (For/While Loops & Iteration)
+
 Nwanbudo,Logic Specialist,Control Flow,Level 3 (Conditional Logic & Gatekeepers)
-Fanuel,Systems Founding,Fundamentals,"Levels 1 & 2 (Variables, IO & Math)"
+
+Fanuel,Systems Founding,Fundamentals,"Levels 1 & 2 (Variables, IO & Math)
+
 -----
 
 ## 🗺️ Learning Path (The 6 Levels)
